@@ -25,5 +25,4 @@
 /spring/*.pid
 .idea/.rakeTasks
 Guardfile
-vendor/bundle/ruby/2.3.0/doc/
-vendor/bundle/ruby/2.3.0/gems/nokogiri-1.7.1/ports/
+/vendor/bundle
