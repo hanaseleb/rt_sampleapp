@@ -26,4 +26,4 @@
 /spring/*.pid
 Guardfile
 /vendor/bundle
-/.idea
+.idea/
